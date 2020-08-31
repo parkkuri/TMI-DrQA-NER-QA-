@@ -1,0 +1,12 @@
+SQuAD/
+drqa/__pycache__/
+glove/
+models/
+*.log
+
+glove/
+SQuAD/
+models/
+pretrained/
+DR/
+train_entity.txt
